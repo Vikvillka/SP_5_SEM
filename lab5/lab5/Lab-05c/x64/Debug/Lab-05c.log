@@ -1,0 +1,10 @@
+﻿  Lab-05c.c
+D:\5_SEM_LABS\SP\lab5\lab5\Lab-05c\Lab-05c.c(17,20): warning C4477: "printf": в строке форматирования "%zu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "2" имеет тип "DWORD"
+  D:\5_SEM_LABS\SP\lab5\lab5\Lab-05c\Lab-05c.c(17,20):
+  рекомендуется использовать "%lu" в строке форматирования
+  
+D:\5_SEM_LABS\SP\lab5\lab5\Lab-05c\Lab-05c.c(20,20): warning C4477: "printf": в строке форматирования "%zu" требуется аргумент типа "unsigned __int64", но вариативный аргумент "2" имеет тип "DWORD"
+  D:\5_SEM_LABS\SP\lab5\lab5\Lab-05c\Lab-05c.c(20,20):
+  рекомендуется использовать "%lu" в строке форматирования
+  
+  Lab-05c.vcxproj -> D:\5_SEM_LABS\SP\lab5\lab5\x64\Debug\Lab-05c.exe

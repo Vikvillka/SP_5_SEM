@@ -1,0 +1,6 @@
+﻿  Lab-06c.c
+D:\5_SEM_LABS\SP\lab6\lab6\Lab-06c\Lab-06c.c(72,25): warning C4477: "wprintf": в строке форматирования "%.*s" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "size_t"
+  D:\5_SEM_LABS\SP\lab6\lab6\Lab-06c\Lab-06c.c(72,25):
+  этот аргумент используется в качестве точности
+  
+  Lab-06c.vcxproj -> D:\5_SEM_LABS\SP\lab6\lab6\x64\Debug\Lab-06c.exe

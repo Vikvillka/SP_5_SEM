@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5_SEM_LABS\\SP\\lab5\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F530CEEC-1992-4EBD-8A0B-1AF18CB57512}|Lab-05c\\Lab-05c.vcxproj|D:\\5_SEM_LABS\\SP\\lab5\\lab5\\Lab-05c\\Lab-05c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F530CEEC-1992-4EBD-8A0B-1AF18CB57512}|Lab-05c\\Lab-05c.vcxproj|solutionrelative:Lab-05c\\Lab-05c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B18ACE43-AF94-4C78-9DCC-53CBF0940F26}|Lab-5b\\Lab-5b.vcxproj|D:\\5_SEM_LABS\\SP\\lab5\\lab5\\Lab-5b\\Lab-5b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B18ACE43-AF94-4C78-9DCC-53CBF0940F26}|Lab-5b\\Lab-5b.vcxproj|solutionrelative:Lab-5b\\Lab-5b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{222167B3-457E-4329-89E9-DC1382195405}|Lab-05a\\Lab-05a.vcxproj|D:\\5_SEM_LABS\\SP\\lab5\\lab5\\Lab-05a\\Lab-05a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{222167B3-457E-4329-89E9-DC1382195405}|Lab-05a\\Lab-05a.vcxproj|solutionrelative:Lab-05a\\Lab-05a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab-05c.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab5\\lab5\\Lab-05c\\Lab-05c.c",
+              "RelativeDocumentMoniker": "Lab-05c\\Lab-05c.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab5\\lab5\\Lab-05c\\Lab-05c.c",
+              "RelativeToolTip": "Lab-05c\\Lab-05c.c",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-18T08:51:27.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab-5b.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab5\\lab5\\Lab-5b\\Lab-5b.c",
+              "RelativeDocumentMoniker": "Lab-5b\\Lab-5b.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab5\\lab5\\Lab-5b\\Lab-5b.c",
+              "RelativeToolTip": "Lab-5b\\Lab-5b.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-18T08:51:27.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab-05a.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab5\\lab5\\Lab-05a\\Lab-05a.c",
+              "RelativeDocumentMoniker": "Lab-05a\\Lab-05a.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab5\\lab5\\Lab-05a\\Lab-05a.c",
+              "RelativeToolTip": "Lab-05a\\Lab-05a.c",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-18T08:51:27.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

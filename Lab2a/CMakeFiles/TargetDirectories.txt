@@ -1,0 +1,3 @@
+D:/5_SEM_LABS/SP/Lab2a/CMakeFiles/Lab-02x.dir
+D:/5_SEM_LABS/SP/Lab2a/CMakeFiles/edit_cache.dir
+D:/5_SEM_LABS/SP/Lab2a/CMakeFiles/rebuild_cache.dir

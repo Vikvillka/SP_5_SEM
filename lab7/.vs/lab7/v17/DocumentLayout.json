@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5_SEM_LABS\\SP\\lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C91C54B-48A9-4AEF-9816-37117EE7F007}|lab7\\lab7.vcxproj|D:\\5_SEM_LABS\\SP\\lab7\\lab7\\Lab-07a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C91C54B-48A9-4AEF-9816-37117EE7F007}|lab7\\lab7.vcxproj|solutionrelative:lab7\\Lab-07a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C546EB0-64DE-4B29-9DFC-8361AE4B2FD4}|lab07b\\lab07b.vcxproj|D:\\5_SEM_LABS\\SP\\lab7\\lab07b\\Lab-07b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C546EB0-64DE-4B29-9DFC-8361AE4B2FD4}|lab07b\\lab07b.vcxproj|solutionrelative:lab07b\\Lab-07b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab-07b.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab7\\lab07b\\Lab-07b.c",
+              "RelativeDocumentMoniker": "lab07b\\Lab-07b.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab7\\lab07b\\Lab-07b.c",
+              "RelativeToolTip": "lab07b\\Lab-07b.c",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-02T13:18:14.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab-07a.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab7\\lab7\\Lab-07a.c",
+              "RelativeDocumentMoniker": "lab7\\Lab-07a.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab7\\lab7\\Lab-07a.c",
+              "RelativeToolTip": "lab7\\Lab-07a.c",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAAJsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-02T12:48:20.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

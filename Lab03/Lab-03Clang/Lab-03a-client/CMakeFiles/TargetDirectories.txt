@@ -1,0 +1,3 @@
+D:/5sem_kill_me/SP/Lab03/Lab-03Clang/Lab-03a-client/CMakeFiles/Lab-03a-client.dir
+D:/5sem_kill_me/SP/Lab03/Lab-03Clang/Lab-03a-client/CMakeFiles/edit_cache.dir
+D:/5sem_kill_me/SP/Lab03/Lab-03Clang/Lab-03a-client/CMakeFiles/rebuild_cache.dir

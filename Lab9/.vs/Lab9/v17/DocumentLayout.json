@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5_SEM_LABS\\SP\\Lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9F5C2D8-A231-44F6-B6E5-470A2E7522A3}|ServiceCtl\\ServiceCtl.vcxproj|D:\\5_SEM_LABS\\SP\\Lab9\\ServiceCtl\\ServiceCtl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9F5C2D8-A231-44F6-B6E5-470A2E7522A3}|ServiceCtl\\ServiceCtl.vcxproj|solutionrelative:ServiceCtl\\ServiceCtl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A2477E-4380-4613-A4B2-1AEE52357E1F}|Service09\\Service09.vcxproj|D:\\5_SEM_LABS\\SP\\Lab9\\Service09\\Service09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4A2477E-4380-4613-A4B2-1AEE52357E1F}|Service09\\Service09.vcxproj|solutionrelative:Service09\\Service09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service09.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\Lab9\\Service09\\Service09.cpp",
+              "RelativeDocumentMoniker": "Service09\\Service09.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\Lab9\\Service09\\Service09.cpp",
+              "RelativeToolTip": "Service09\\Service09.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-26T07:39:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceCtl.cpp",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\Lab9\\ServiceCtl\\ServiceCtl.cpp",
+              "RelativeDocumentMoniker": "ServiceCtl\\ServiceCtl.cpp",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\Lab9\\ServiceCtl\\ServiceCtl.cpp",
+              "RelativeToolTip": "ServiceCtl\\ServiceCtl.cpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAALoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-26T07:39:35.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

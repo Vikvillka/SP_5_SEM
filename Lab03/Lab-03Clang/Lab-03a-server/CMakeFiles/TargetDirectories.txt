@@ -1,0 +1,3 @@
+D:/5_SEM_LABS/SP/Lab03/Lab-03Clang/Lab-03a-server/CMakeFiles/Lab-03a-server.dir
+D:/5_SEM_LABS/SP/Lab03/Lab-03Clang/Lab-03a-server/CMakeFiles/edit_cache.dir
+D:/5_SEM_LABS/SP/Lab03/Lab-03Clang/Lab-03a-server/CMakeFiles/rebuild_cache.dir

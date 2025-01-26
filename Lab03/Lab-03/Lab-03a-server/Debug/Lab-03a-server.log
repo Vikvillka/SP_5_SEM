@@ -1,0 +1,4 @@
+﻿  Lab-03a-server.c
+D:\5sem_kill_me\SP\Lab03\Lab-03\Lab-03a-server\Lab-03a-server.c(26,30): warning C4133: функция: несовместимые типы - из "char [1024]" в "LPWSTR"
+D:\5sem_kill_me\SP\Lab03\Lab-03\Lab-03a-server\Lab-03a-server.c(53,46): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+  Lab-03a-server.vcxproj -> D:\5sem_kill_me\SP\Lab03\Lab-03\Debug\Lab-03a-server.exe

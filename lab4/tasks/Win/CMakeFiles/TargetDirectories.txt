@@ -1,0 +1,4 @@
+D:/5_SEM_LABS/SP/lab4/tasks/Win/CMakeFiles/Lab-04.dir
+D:/5_SEM_LABS/SP/lab4/tasks/Win/CMakeFiles/Lab-04b.dir
+D:/5_SEM_LABS/SP/lab4/tasks/Win/CMakeFiles/edit_cache.dir
+D:/5_SEM_LABS/SP/lab4/tasks/Win/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+[12:25:23] Directory log file opened successfully.
+[12:25:23] Success! Service started with parameters: D:\5_SEM_LABS\SP\Lab9\x64\Logs, D:\5_SEM_LABS\SP\Lab9\x64\Debug
+[12:25:23] Waiting for directory changes...
+[12:26:3] Success! Service Service09 changed state from RUNNING to STOPPED

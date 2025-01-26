@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5_SEM_LABS\\SP\\lab4\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2137D8-E1AF-4BCD-BA8A-5741876A55D5}|Lab-04b\\Lab-04b.vcxproj|D:\\5_SEM_LABS\\SP\\lab4\\lab4\\Lab-04b\\Lab-04b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B2137D8-E1AF-4BCD-BA8A-5741876A55D5}|Lab-04b\\Lab-04b.vcxproj|solutionrelative:Lab-04b\\Lab-04b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3C4850A-3973-4320-A3CA-B4791DAB1A39}|Lab-04\\Lab-04.vcxproj|D:\\5_SEM_LABS\\SP\\lab4\\lab4\\Lab-04\\Lab-04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3C4850A-3973-4320-A3CA-B4791DAB1A39}|Lab-04\\Lab-04.vcxproj|solutionrelative:Lab-04\\Lab-04.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab-04b.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab4\\lab4\\Lab-04b\\Lab-04b.c",
+              "RelativeDocumentMoniker": "Lab-04b\\Lab-04b.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab4\\lab4\\Lab-04b\\Lab-04b.c",
+              "RelativeToolTip": "Lab-04b\\Lab-04b.c",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-11T13:35:41.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab-04.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab4\\lab4\\Lab-04\\Lab-04.c",
+              "RelativeDocumentMoniker": "Lab-04\\Lab-04.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab4\\lab4\\Lab-04\\Lab-04.c",
+              "RelativeToolTip": "Lab-04\\Lab-04.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-11T13:35:41.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

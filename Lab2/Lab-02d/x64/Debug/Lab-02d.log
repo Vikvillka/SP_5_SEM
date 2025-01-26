@@ -1,0 +1,4 @@
+﻿  Lab-02d.c
+D:\5_SEM_LABS\SP\Lab2\Lab-02d\Lab-02d.c(11,62): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+D:\5_SEM_LABS\SP\Lab2\Lab-02d\Lab-02d.c(11,62): warning C4024: CreateProcessW: различные типы для формального и фактического параметров 6
+  Lab-02d.vcxproj -> D:\5_SEM_LABS\SP\Lab2\x64\Debug\Lab-02d.exe

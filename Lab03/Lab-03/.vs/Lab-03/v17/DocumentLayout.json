@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5_SEM_LABS\\SP\\Lab03\\Lab-03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B83005D-3996-4E97-8E62-135C3A8DDC4F}|Lab-03b-client\\Lab-03b-client.vcxproj|D:\\5_SEM_LABS\\SP\\Lab03\\Lab-03\\Lab-03b-client\\Lab-03b-client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B83005D-3996-4E97-8E62-135C3A8DDC4F}|Lab-03b-client\\Lab-03b-client.vcxproj|solutionrelative:Lab-03b-client\\Lab-03b-client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA37AB9-C781-471B-B02D-46B0C1CDFAF0}|Lab-03b-server\\Lab-03b-server.vcxproj|D:\\5_SEM_LABS\\SP\\Lab03\\Lab-03\\Lab-03b-server\\Lab-03b-server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7EA37AB9-C781-471B-B02D-46B0C1CDFAF0}|Lab-03b-server\\Lab-03b-server.vcxproj|solutionrelative:Lab-03b-server\\Lab-03b-server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC561051-1CBE-41D4-9E89-3B0003E98F86}|Lab-03\\Lab-03.vcxproj|D:\\5_SEM_LABS\\SP\\Lab03\\Lab-03\\Lab-03\\Lab-03a-client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC561051-1CBE-41D4-9E89-3B0003E98F86}|Lab-03\\Lab-03.vcxproj|solutionrelative:Lab-03\\Lab-03a-client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C248038A-33B8-460D-8B32-06099CF202EF}|Lab-03a-server\\Lab-03a-server.vcxproj|D:\\5_SEM_LABS\\SP\\Lab03\\Lab-03\\Lab-03a-server\\Lab-03a-server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C248038A-33B8-460D-8B32-06099CF202EF}|Lab-03a-server\\Lab-03a-server.vcxproj|solutionrelative:Lab-03a-server\\Lab-03a-server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab-03a-client.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\Lab03\\Lab-03\\Lab-03\\Lab-03a-client.c",
+              "RelativeDocumentMoniker": "Lab-03\\Lab-03a-client.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\Lab03\\Lab-03\\Lab-03\\Lab-03a-client.c",
+              "RelativeToolTip": "Lab-03\\Lab-03a-client.c",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-17T17:33:13.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab-03b-server.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\Lab03\\Lab-03\\Lab-03b-server\\Lab-03b-server.c",
+              "RelativeDocumentMoniker": "Lab-03b-server\\Lab-03b-server.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\Lab03\\Lab-03\\Lab-03b-server\\Lab-03b-server.c",
+              "RelativeToolTip": "Lab-03b-server\\Lab-03b-server.c",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-25T13:29:24.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab-03b-client.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\Lab03\\Lab-03\\Lab-03b-client\\Lab-03b-client.c",
+              "RelativeDocumentMoniker": "Lab-03b-client\\Lab-03b-client.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\Lab03\\Lab-03\\Lab-03b-client\\Lab-03b-client.c",
+              "RelativeToolTip": "Lab-03b-client\\Lab-03b-client.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-25T13:30:10.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab-03a-server.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\Lab03\\Lab-03\\Lab-03a-server\\Lab-03a-server.c",
+              "RelativeDocumentMoniker": "Lab-03a-server\\Lab-03a-server.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\Lab03\\Lab-03\\Lab-03a-server\\Lab-03a-server.c",
+              "RelativeToolTip": "Lab-03a-server\\Lab-03a-server.c",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAGUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-17T17:41:32.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

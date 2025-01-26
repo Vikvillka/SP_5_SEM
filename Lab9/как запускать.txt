@@ -1,0 +1,16 @@
+ServiceCtl Service09 Create "D:\5_SEM_LABS\SP\Lab9\x64\Debug\Service09.exe"  
+ServiceCtl Service09 Start D:\5_SEM_LABS\SP\Lab9\x64\Debug D:\5_SEM_LABS\SP\Lab9\x64\Logs 
+
+ServiceCtl Service09 Stop
+ServiceCtl Service09 Pause
+ServiceCtl Service09 Continue 
+ServiceCtl Service09 Delete
+ServiceCtl Service09 Info
+
+2) sc create Service09 binPath= "D:\5_SEM_LABS\SP\Lab9\x64\Debug\Service09.exe D:\5_SEM_LABS\SP\Lab9\x64\Debug"
+3) net start Service09 - запустить сервис
+4) net stop Service09 - оставить сервич
+5) net pause Service09 - приостановить сервис
+6) net continue Service09 - возобновить выполнение сервиса
+7) sc delete Service09 - удалить
+8) sc query Service09 - проверить есть ли он вообще

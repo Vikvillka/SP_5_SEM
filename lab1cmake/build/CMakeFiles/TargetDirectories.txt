@@ -1,0 +1,3 @@
+D:/5_SEM_LABS/SP/lab1cmake/build/CMakeFiles/MyLab1.dir
+D:/5_SEM_LABS/SP/lab1cmake/build/CMakeFiles/ALL_BUILD.dir
+D:/5_SEM_LABS/SP/lab1cmake/build/CMakeFiles/ZERO_CHECK.dir

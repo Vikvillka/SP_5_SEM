@@ -1,0 +1,4 @@
+﻿  function.c
+D:\5_SEM_LABS\SP\lab1.1\function.c(11,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\5_SEM_LABS\SP\lab1.1\function.c(32,35): warning C4028: формальный параметр 1 отличается от объявления
+  lab1.1.vcxproj -> D:\5_SEM_LABS\SP\lab01\x64\Debug\lab1.1.exe

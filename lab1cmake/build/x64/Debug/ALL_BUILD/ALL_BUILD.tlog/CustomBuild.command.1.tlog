@@ -1,0 +1,10 @@
+^D:\5_SEM_LABS\SP\LAB1CMAKE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/5_SEM_LABS/SP/lab1cmake -BD:/5_SEM_LABS/SP/lab1cmake/build --check-stamp-file D:/5_SEM_LABS/SP/lab1cmake/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

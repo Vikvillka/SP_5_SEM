@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56163078-FD65-469F-9759-A4C3FD056CCB}|Mappingd-2\\Mappingd-2.vcxproj|D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd-2\\Mappingd-2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56163078-FD65-469F-9759-A4C3FD056CCB}|Mappingd-2\\Mappingd-2.vcxproj|solutionrelative:Mappingd-2\\Mappingd-2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56163078-FD65-469F-9759-A4C3FD056CCB}|Mappingd-2\\Mappingd-2.vcxproj|D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd-2\\dllmain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56163078-FD65-469F-9759-A4C3FD056CCB}|Mappingd-2\\Mappingd-2.vcxproj|solutionrelative:Mappingd-2\\dllmain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9467A1-2209-4F76-8B60-5E46FC432860}|Lab-08b\\Lab-08b.vcxproj|D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Lab-08b\\Lab-08b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B9467A1-2209-4F76-8B60-5E46FC432860}|Lab-08b\\Lab-08b.vcxproj|solutionrelative:Lab-08b\\Lab-08b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2C696A-1B6F-482A-AADC-E14C5EBE4681}|Mappingd\\Mappingd.vcxproj|D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd\\Mappingd.def||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8B2C696A-1B6F-482A-AADC-E14C5EBE4681}|Mappingd\\Mappingd.vcxproj|solutionrelative:Mappingd\\Mappingd.def||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2C696A-1B6F-482A-AADC-E14C5EBE4681}|Mappingd\\Mappingd.vcxproj|D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd\\dllmain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B2C696A-1B6F-482A-AADC-E14C5EBE4681}|Mappingd\\Mappingd.vcxproj|solutionrelative:Mappingd\\dllmain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C887B670-0771-4955-91CD-9A488D013552}|Lab-08a\\Lab-08a.vcxproj|D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Lab-08a\\Lab-08a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C887B670-0771-4955-91CD-9A488D013552}|Lab-08a\\Lab-08a.vcxproj|solutionrelative:Lab-08a\\Lab-08a.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D14D284-2719-48DD-A8D1-D3ED03A2EDDF}|Mappings\\Mappings.vcxproj|D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappings\\Mappings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D14D284-2719-48DD-A8D1-D3ED03A2EDDF}|Mappings\\Mappings.vcxproj|solutionrelative:Mappings\\Mappings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D14D284-2719-48DD-A8D1-D3ED03A2EDDF}|Mappings\\Mappings.vcxproj|D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappings\\Mappings.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D14D284-2719-48DD-A8D1-D3ED03A2EDDF}|Mappings\\Mappings.vcxproj|solutionrelative:Mappings\\Mappings.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2C696A-1B6F-482A-AADC-E14C5EBE4681}|Mappingd\\Mappingd.vcxproj|D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B2C696A-1B6F-482A-AADC-E14C5EBE4681}|Mappingd\\Mappingd.vcxproj|solutionrelative:Mappingd\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56163078-FD65-469F-9759-A4C3FD056CCB}|Mappingd-2\\Mappingd-2.vcxproj|D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd-2\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56163078-FD65-469F-9759-A4C3FD056CCB}|Mappingd-2\\Mappingd-2.vcxproj|solutionrelative:Mappingd-2\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2C696A-1B6F-482A-AADC-E14C5EBE4681}|Mappingd\\Mappingd.vcxproj|D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd\\Mappingd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B2C696A-1B6F-482A-AADC-E14C5EBE4681}|Mappingd\\Mappingd.vcxproj|solutionrelative:Mappingd\\Mappingd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\5_SEM_LABS\\SP\\Static\\Lab-08b.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C29931F-B5A0-49CB-B00C-74EFD27ECDC4}|C:\\Users\\user\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_47dce37c\\SingleFileISense\\_sfi_a8b6e576-cd4d-4060-979f-abc034f0373e_.vcxproj|D:\\5_SEM_LABS\\SP\\DYNAMIC\\MAPPINGS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C29931F-B5A0-49CB-B00C-74EFD27ECDC4}|C:\\Users\\user\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_47dce37c\\SingleFileISense\\_sfi_a8b6e576-cd4d-4060-979f-abc034f0373e_.vcxproj|D:\\5_SEM_LABS\\SP\\STATIC\\MAPPINGS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\5_SEM_LABS\\SP\\Dynamic\\Mappings.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\5_SEM_LABS\\SP\\Static\\Mappings.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\CORECRT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\CORECRT_MALLOC.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\CODEANALYSIS\\SOURCEANNOTATIONS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab-08b.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Lab-08b\\Lab-08b.c",
+              "RelativeDocumentMoniker": "Lab-08b\\Lab-08b.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Lab-08b\\Lab-08b.c",
+              "RelativeToolTip": "Lab-08b\\Lab-08b.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-16T12:40:00.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mappingd.def",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd\\Mappingd.def",
+              "RelativeDocumentMoniker": "Mappingd\\Mappingd.def",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd\\Mappingd.def",
+              "RelativeToolTip": "Mappingd\\Mappingd.def",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-12-16T12:40:00.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dllmain.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd\\dllmain.c",
+              "RelativeDocumentMoniker": "Mappingd\\dllmain.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd\\dllmain.c",
+              "RelativeToolTip": "Mappingd\\dllmain.c",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-16T12:40:00.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab-08a.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Lab-08a\\Lab-08a.c",
+              "RelativeDocumentMoniker": "Lab-08a\\Lab-08a.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Lab-08a\\Lab-08a.c",
+              "RelativeToolTip": "Lab-08a\\Lab-08a.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-16T12:40:00.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mappings.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappings\\Mappings.c",
+              "RelativeDocumentMoniker": "Mappings\\Mappings.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappings\\Mappings.c",
+              "RelativeToolTip": "Mappings\\Mappings.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-16T12:40:00.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mappings.h",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappings\\Mappings.h",
+              "RelativeDocumentMoniker": "Mappings\\Mappings.h",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappings\\Mappings.h",
+              "RelativeToolTip": "Mappings\\Mappings.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T12:40:00.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dllmain.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd-2\\dllmain.c",
+              "RelativeDocumentMoniker": "Mappingd-2\\dllmain.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd-2\\dllmain.c",
+              "RelativeToolTip": "Mappingd-2\\dllmain.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-16T12:40:00.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mappingd-2.h",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd-2\\Mappingd-2.h",
+              "RelativeDocumentMoniker": "Mappingd-2\\Mappingd-2.h",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd-2\\Mappingd-2.h",
+              "RelativeToolTip": "Mappingd-2\\Mappingd-2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T12:40:00.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "framework.h",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd\\framework.h",
+              "RelativeDocumentMoniker": "Mappingd\\framework.h",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd\\framework.h",
+              "RelativeToolTip": "Mappingd\\framework.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T06:52:32.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "framework.h",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd-2\\framework.h",
+              "RelativeDocumentMoniker": "Mappingd-2\\framework.h",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd-2\\framework.h",
+              "RelativeToolTip": "Mappingd-2\\framework.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T12:41:02.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mappingd.h",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd\\Mappingd.h",
+              "RelativeDocumentMoniker": "Mappingd\\Mappingd.h",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\lab8\\lab8\\Mappingd\\Mappingd.h",
+              "RelativeToolTip": "Mappingd\\Mappingd.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T12:40:00.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lab-08b.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\Static\\Lab-08b.c",
+              "RelativeDocumentMoniker": "..\\..\\Static\\Lab-08b.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\Static\\Lab-08b.c",
+              "RelativeToolTip": "..\\..\\Static\\Lab-08b.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-17T06:44:01.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mappings.h",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\Dynamic\\Mappings.h",
+              "RelativeDocumentMoniker": "..\\..\\Dynamic\\Mappings.h",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\Dynamic\\Mappings.h",
+              "RelativeToolTip": "..\\..\\Dynamic\\Mappings.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T06:42:46.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Mappings.h",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\Static\\Mappings.h",
+              "RelativeDocumentMoniker": "..\\..\\Static\\Mappings.h",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\Static\\Mappings.h",
+              "RelativeToolTip": "..\\..\\Static\\Mappings.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-17T06:43:05.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mappings.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\Dynamic\\Mappings.c",
+              "RelativeDocumentMoniker": "..\\..\\Dynamic\\Mappings.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\Dynamic\\Mappings.c",
+              "RelativeToolTip": "..\\..\\Dynamic\\Mappings.c",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-17T06:42:31.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mappings.c",
+              "DocumentMoniker": "D:\\5_SEM_LABS\\SP\\Static\\Mappings.c",
+              "RelativeDocumentMoniker": "..\\..\\Static\\Mappings.c",
+              "ToolTip": "D:\\5_SEM_LABS\\SP\\Static\\Mappings.c",
+              "RelativeToolTip": "..\\..\\Static\\Mappings.c",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-17T06:42:57.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "corecrt.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T12:43:27.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "corecrt_malloc.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_malloc.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_malloc.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T12:43:26.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "sourceannotations.h",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\CodeAnalysis\\sourceannotations.h",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\CodeAnalysis\\sourceannotations.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-16T12:43:24.599Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
